@@ -1,0 +1,72 @@
+[
+  {
+    "id": 101,
+    "user": "Neha",
+    "feedback": "App is crashing frequently and losing my data",
+    "timestamp": "2026-05-08T10:20:00",
+    "source": "mobile-app"
+  },
+  {
+    "id": 102,
+    "user": "Ravi",
+    "feedback": "Checkout process is very slow and timing out",
+    "timestamp": "2026-05-08T10:21:00",
+    "source": "website"
+  },
+  {
+    "id": 103,
+    "user": "Sunita",
+    "feedback": "Absolutely love this product, best purchase ever",
+    "timestamp": "2026-05-08T10:22:00",
+    "source": "mobile-app"
+  },
+  {
+    "id": 104,
+    "user": "David",
+    "feedback": "Support team resolved my issue quickly, very happy",
+    "timestamp": "2026-05-08T10:23:00",
+    "source": "website"
+  },
+  {
+    "id": 105,
+    "user": "Kavya",
+    "feedback": "Wrong item was delivered to my address",
+    "timestamp": "2026-05-08T10:24:00",
+    "source": "mobile-app"
+  },
+  {
+    "id": 106,
+    "user": "Tom",
+    "feedback": "Fantastic quality and arrived well ahead of schedule",
+    "timestamp": "2026-05-08T10:25:00",
+    "source": "website"
+  },
+  {
+    "id": 107,
+    "user": "Meera",
+    "feedback": "Payment failed multiple times but was charged anyway",
+    "timestamp": "2026-05-08T10:26:00",
+    "source": "mobile-app"
+  },
+  {
+    "id": 108,
+    "user": "Alex",
+    "feedback": "Really good value for money, exceeded expectations",
+    "timestamp": "2026-05-08T10:27:00",
+    "source": "website"
+  },
+  {
+    "id": 109,
+    "user": "Pooja",
+    "feedback": "Tracking information was never updated, very poor",
+    "timestamp": "2026-05-08T10:28:00",
+    "source": "mobile-app"
+  },
+  {
+    "id": 110,
+    "user": "James",
+    "feedback": "Smooth experience from start to finish, great service",
+    "timestamp": "2026-05-08T10:29:00",
+    "source": "website"
+  }
+]

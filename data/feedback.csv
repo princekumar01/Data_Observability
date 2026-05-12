@@ -1,0 +1,11 @@
+id,user,feedback,timestamp,source
+1,Ram,"Delivery was extremely slow and frustrating","2026-05-08 10:00:00","website"
+2,John,"Product quality is absolutely excellent","2026-05-08 10:05:00","mobile-app"
+3,Priya,"The app crashes every time I try to open it","2026-05-08 10:10:00","mobile-app"
+4,Sarah,"Customer support was super helpful and responsive","2026-05-08 10:15:00","website"
+5,Amit,"My order never arrived after two weeks of waiting","2026-05-08 10:20:00","website"
+6,Emma,"Great experience overall, will definitely shop again","2026-05-08 10:25:00","mobile-app"
+7,Raj,"The website is painfully slow to navigate","2026-05-08 10:30:00","website"
+8,Lisa,"Product arrived completely damaged and broken","2026-05-08 10:35:00","mobile-app"
+9,Arjun,"Excellent packaging and lightning fast delivery","2026-05-08 10:40:00","website"
+10,Maria,"The refund process is extremely confusing and unclear","2026-05-08 10:45:00","mobile-app"
